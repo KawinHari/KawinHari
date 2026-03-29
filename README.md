@@ -86,16 +86,7 @@
 - 🏅 **Introduction to IoT** — NPTEL *(Elite Certification)* · Oct 2023
 - 🏅 **Design Thinking Co-Creator** — IBM · Jan 2022
 
----
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KawinHari&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KawinHari&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
-</p>
-
----
 
 <p align="center">
   <i>"Building meaningful things, one project at a time."</i>
