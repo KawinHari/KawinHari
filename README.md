@@ -19,15 +19,7 @@
 
 ---
 
-## 🎓 Education
 
-| Year | Qualification | Institution | Score |
-|------|--------------|-------------|-------|
-| 2021 – 2025 | B.E. Electronics & Communication Engineering | SNS College of Technology | CGPA: 9 / 10 |
-| 2021 | Higher Secondary Education | Jaycees Matric Hr Sec School | 88% |
-| 2019 | SSLC | Holy Rosary Matriculation School | 78% |
-
----
 
 ## 🛠️ Skills
 
@@ -84,7 +76,7 @@
 
 - 🏅 **Introduction to IoT and Industry 4.0** — NPTEL *(Elite with Silver Batch)* · Apr 2024
 - 🏅 **Introduction to IoT** — NPTEL *(Elite Certification)* · Oct 2023
-- 🏅 **Design Thinking Co-Creator** — IBM · Jan 2022
+
 
 
 
