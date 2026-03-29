@@ -1,8 +1,8 @@
 <h1 align="center">👋 Hi, I'm Kawin Hari K B</h1>
  
 <p align="center">
-  <b>Electronics & Communication Engineer · IoT Enthusiast · Problem Solver</b><br/>
-  Coimbatore, Tamil Nadu 🇮🇳
+  <b>Software Engineer · Developer </b><br/>
+  Chennai, Tamil Nadu 🇮🇳
 </p>
 
 <p align="center">
@@ -23,7 +23,7 @@
 
 | Year | Qualification | Institution | Score |
 |------|--------------|-------------|-------|
-| 2021 – 2025 | B.E. Electronics & Communication Engineering | SNS College of Technology | CGPA: 8.9 / 10 |
+| 2021 – 2025 | B.E. Electronics & Communication Engineering | SNS College of Technology | CGPA: 9 / 10 |
 | 2021 | Higher Secondary Education | Jaycees Matric Hr Sec School | 88% |
 | 2019 | SSLC | Holy Rosary Matriculation School | 78% |
 
